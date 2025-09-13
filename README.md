@@ -4,7 +4,7 @@ Full-stack Engineer | Python, React, AWS | Building cool apps & open-source tool
 🔭 I’m currently working on building high-scale web apps  
 🌱 Learning Kubernetes, AI Agents, Distributed Systems  
 💬 Ask me about Python, React, and DevOps  
-📫 How to reach me: [LinkedIn](your-linkedin) | [Twitter](your-twitter)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-mahalunge/) | [Twitter](your-twitter)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
