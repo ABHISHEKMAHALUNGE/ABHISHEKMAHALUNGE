@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
+Full-stack Engineer | Python, React, AWS | Building cool apps & open-source tools
 
-<!--
-**ABHISHEKMAHALUNGE/ABHISHEKMAHALUNGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building high-scale web apps  
+🌱 Learning Kubernetes, AI Agents, Distributed Systems  
+💬 Ask me about Python, React, and DevOps  
+📫 How to reach me: [LinkedIn](your-linkedin) | [Twitter](your-twitter)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+⚡ Fun fact: I once built a tennis prediction AI that crushed my friends' brackets 🏓
+
