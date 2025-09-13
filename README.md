@@ -12,7 +12,7 @@ Full-stack Engineer | Python, React, AWS | Building cool apps & open-source tool
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHISHEKMAHALUNGE&show_icons=true&theme=radical)
 
 ⚡ Fun fact: I once built a tennis prediction AI that crushed my friends' brackets 🏓
 
