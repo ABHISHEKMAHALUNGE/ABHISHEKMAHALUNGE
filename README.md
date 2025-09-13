@@ -1,5 +1,5 @@
 # Hi, I'm Abhishek 👋
-Full-stack Engineer | Python, React, AWS | Building cool apps & open-source tools
+Full-stack/ML Engineer | Python, React, AWS | Building cool apps & open-source tools
 
 🔭 I’m currently working on building high-scale web apps  
 🌱 Learning Kubernetes, AI Agents, Distributed Systems  
